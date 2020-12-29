@@ -1,5 +1,6 @@
 ### webStorm 2020.3 激活码,phpStorm 2020.3激活,idea激活,pyCharm激活
->- 直接上代码
+>- 最新激活文章1 https://www.jianshu.com/p/28f4e9a6c7c8
+>- 最新激活文章2 https://juejin.cn/post/6910548915926335495
 >- 技术交流QQ群 `277030213`
 ### 1.下载
 - 安装完成后，选择 ”Evaluate for free“ 免费试用，点击 “Evaluate” 进入 IDE 中，新建或打开一个项目。
