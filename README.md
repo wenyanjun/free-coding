@@ -2,6 +2,11 @@
 >- 最新激活文章1 https://www.jianshu.com/p/28f4e9a6c7c8
 >- 最新激活文章2 https://juejin.cn/post/6910548915926335495
 >- 技术交流QQ群 `277030213`
+
+### 0.激活码
+>- 2021-01-20 xx https://545c.com/f/18744103-479732478-e9f394 （访问密码：4238）
+>- 2021-01-20 xx 备用地址 https://www.90pan.com/b2247850
+
 ### 1.下载
 - 安装完成后，选择 ”Evaluate for free“ 免费试用，点击 “Evaluate” 进入 IDE 中，新建或打开一个项目。
 ![](https://upload-images.jianshu.io/upload_images/1433350-5fc3b601fd6b04c6.png?imageMogr2/auto-orient/strip|imageView2/2/w/784/format/webp)
